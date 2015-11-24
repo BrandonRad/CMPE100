@@ -1,4 +1,5 @@
 # CMPE100
 A Logic Design game designed with Xilinx for CMPE100 at UCSC.
-The files contained are the schematics and verilog files used to create the game. The DEMO.bit file will run a demonstration given the same hardware is used.
+The files contained are the schematics and verilog files used to create the game. The DEMO.bit file will run a demonstration 
+given the same hardware is used.
 All of the files are on hand if desired.
